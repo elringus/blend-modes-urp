@@ -2,7 +2,7 @@
 
 This project shows how to set up and use [Blend Modes](http://u3d.as/b9w) with [URP](https://unity.com/srp/universal-render-pipeline).
 
-![](https://i.gyazo.com/f5fc2c64509e905738ae428dfee41ccb.png)
+![](https://i.gyazo.com/ecd05d70e1ad4b7b7592e3846875b048.png)
 
 ## Setup
 
